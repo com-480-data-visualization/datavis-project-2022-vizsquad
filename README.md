@@ -75,8 +75,10 @@ These visualizations will enable us to experiment with several gestalts, colours
 - DynamoVis ([link](https://github.com/move-ucsb/DynamoVis))
   - An interactive tool for the exploratory visualization of animal movement data. Made for biologists in the form of desktop applications.
 
+#### Why is our approach original?
+
 While there is scientific research on the individual studies, there is no visualization that would combine the data of different studies and show animal migrations in an interactive way.
-Our goal is to present data on migration to non-experts and show the dynamism of the animal world that is greater than we usually think.
+Our goal is to present data on migration to non-experts in accessible way and show the dynamism of the animal world that is greater than we usually think.
 
 #### Sources of inspiration
 
