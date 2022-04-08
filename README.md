@@ -125,9 +125,9 @@ The median length of a study is of 25 months, with skewed distribution. This is 
   <th>Chelonia mydas</th>
 </tr>
 <tr>
-  <td><img src="images/chelona_mydias.jpg" width="100%"></td>
-  <td><img src="images/panthera_onca.jpg" width="100%"></td>
-  <td><img src="images/buceros_bicornis.jpg" width="100%"></td>
+  <td><img src="images/buceros_bicornis.jpg"></td>
+  <td><img src="images/panthera_onca.jpg"></td>
+  <td><img src="images/chelona_mydias.jpg"></td>
 </tr>
 <tr>
  <td>by: Seasidesaltlife - <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a></td>
@@ -136,7 +136,7 @@ The median length of a study is of 25 months, with skewed distribution. This is 
 </tr>
 </table>
 
-<p align="center"><em>Figure 7: Example of animals from the dataset.</em></p>
+<p align="center"><em>Figure 8: Example of animals from the dataset.</em></p>
 
 </div>
 
