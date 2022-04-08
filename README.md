@@ -41,13 +41,13 @@ During the pre-processing of the data, we have plotted in python (for fast and c
 
 
 <p align="center">
-    <img src="images/france_study.png" width="50%">
+    <img style="background-color: white;" src="images/france_study.png" width="50%">
     <br>
     <em>Figure 1: In purple, the data about a single animal in a study of our dataset, over a blue map of central European countries.</em>
 </p>
 
 <p align="center">
-    <img src="images/world_map.png" width="100%">
+    <img style="background-color: white;"  src="images/world_map.png" width="100%">
     <br>
     <em>Figure 2: Several studies were plotted in the same world map. Every study is in a different color.</em>
 </p>
@@ -71,7 +71,7 @@ These visualizations will enable us to experiment with several gestalts, colours
 Our data consists of 373 different studies, which were carried out in a period that spans more than a century. Of course they are not uniformly distributed in time. This is clearly visible in the histograms that we present below.
 
 <p align="center">
-    <img src="images/events_per_year.png" width="50%">
+    <img style="background-color: white;"  src="images/events_per_year.png" width="50%">
     <br>
     <em>Figure 3: on the x-axis the year considered and on the y-axis the number of observations available for that year. The data used  for the plot is a subsample of ~10% of the dataset. It is clear that the data is not uniformly distributed in time, and most of it is concentrated in the last 20 years.</em>
 </p>
@@ -83,7 +83,7 @@ In our dataset we have almost 400 Millions of such measurements, and they are no
 Removing, for instance, the 10 biggest studies could be a good idea, to avoid speed problems during our visualization. 
 
 <p align="center">
-    <img src="images/num_of_events_per_study.png" width="50%">
+    <img style="background-color: white;"  src="images/num_of_events_per_study.png" width="50%">
     <br>
     <em>Figure 4: on the x-axis the dimension (in number of rows) of each study. On the y-axis the the counts. Both axis are in log scale.</em>
 </p>
@@ -105,7 +105,7 @@ These statistics are important to us, as it means that we have enough data to co
 The median length of a study is of 25 months, with skewed distribution. This is also relevant for our visualization, as we will be able to animate the study in time, using multiple time scales
 
 <p align="center">
-    <img src="images/length_of_studies.png" width="50%">
+    <img style="background-color: white;"  src="images/length_of_studies.png" width="50%">
     <br>
     <em>Figure 6: Distribution of the lengths of each study. Outlier values (distant more than 3 standard deviations from the mean) were excluded from the plot.</em>
 </p>
