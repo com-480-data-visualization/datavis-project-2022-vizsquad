@@ -66,6 +66,8 @@ These visualizations will enable us to experiment with several gestalts, colours
 
 ### Exploratory Data Analysis
 
+#### Tracking animal events
+
 Our data consists of 373 different studies, which were carried out in a period that spans more than a century. Of course they are not uniformly distributed in time. This is clearly visible in the histograms that we present below.
 
 <p align="center">
@@ -108,6 +110,35 @@ The median length of a study is of 25 months, with skewed distribution. This is 
     <em>Figure 6: Distribution of the lengths of each study. Outlier values (distant more than 3 standard deviations from the mean) were excluded from the plot.</em>
 </p>
 
+#### About animals
+
+<p align="center">
+    <img src="images/tree.png" width="100%">
+    <br>
+    <em>Figure 7: Phylogenetic tree of animals with tracking data.</em>
+</p>
+<div aligh="center">
+<table>
+<tr>
+  <th>Buceros bicornis</th>
+  <th>Panthera onca</th>
+  <th>Chelonia mydas</th>
+</tr>
+<tr>
+  <td><img src="images/chelona_mydias.jpg" width="100%"></td>
+  <td><img src="images/panthera_onca.jpg" width="100%"></td>
+  <td><img src="images/buceros_bicornis.jpg" width="100%"></td>
+</tr>
+<tr>
+ <td>by: Seasidesaltlife - <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a></td>
+ <td>by: Charles J. Sharp - <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a></td>
+ <td>by: Angadachappa - <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a></td>
+</tr>
+</table>
+
+<p align="center"><em>Figure 7: Example of animals from the dataset.</em></p>
+
+</div>
 
 ### Related work
 
