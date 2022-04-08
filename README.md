@@ -21,7 +21,7 @@ This dataset is rich and is provided in a relatively clean data format. Since th
 #### Data Retrieval
 First, we had to retrieve the data from the movebank website. Movebank is not an aggregate dataset but is made of several independent studies submitted by different teams. 
 The dataset used for this project is an aggregated version of several of these studies since we would like to provide insights for several species and time periods. 
-We aggregated XXX studies into a dataset of 1.74 GB volume and approximately XXX rows in total. 
+We aggregated 373 studies into a dataset of 1.74 GB volume and approximately 43 million rows in total. 
 Some of the studies are very large and contain more than 100MB of data each. 
 For ease of computation, we decided to remove these large studies keeping a majority of studies (thus data insights) but removing a significant part of the data volume. 
 This data aggregation constituted a non-negligible amount of time and effort.
@@ -70,14 +70,10 @@ These visualizations will enable us to experiment with several gestalts, colours
 
 #### What others have already done with the data?
 
-- Movebank.org ([link](https://www.movebank.org/cms/movebank-main))
-  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-- Movebank dataset summarizer ([link](https://robitalec.github.io/move-book/index.html))
-  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+- Movebank dataset summarizer ([link](https://robitalec.github.io/move-book/index.html)) 
+  - Summarizes data sets showing bounding boxed of animal movement in studies and general information about study.
 - DynamoVis ([link](https://github.com/move-ucsb/DynamoVis))
-  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-#### Why is our approach original?
+  - An interactive tool for the exploratory visualization of animal movement data. Made for biologists in the form of desktop applications.
 
 While there is scientific research on the individual studies, there is no visualization that would combine the data of different studies and show animal migrations in an interactive way.
 Our goal is to present data on migration to non-experts and show the dynamism of the animal world that is greater than we usually think.
@@ -88,7 +84,7 @@ Our goal is to present data on migration to non-experts and show the dynamism of
 |:--------------------------------------------------------------------------------------------------------------------:|
 | <a href="https://satellitemap.space/"><img src="images/satellitemap.png" alt="1" width = "100%"></a> |
 
-|         Global animal movements based on Movebank data - ([link](https://www.youtube.com/watch?v=nUKh0fr1Od8))          |
+|          Global animal movements based on Movebank data ([link](https://www.youtube.com/watch?v=nUKh0fr1Od8))           |
 |:-----------------------------------------------------------------------------------------------------------------------:|
 | <a href="https://www.youtube.com/watch?v=nUKh0fr1Od8"><img src="images/migration_video.png" alt="1" width = "100%"></a> |
 
