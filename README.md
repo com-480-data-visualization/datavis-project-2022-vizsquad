@@ -1,7 +1,5 @@
 # Project of Data Visualization (COM-480)
 
-----
-
 ![](images/banner.png)
 
 | Student's name  | SCIPER |
@@ -10,7 +8,7 @@
 | Lovro Nuic      | 338203 |
 | Fabrizio Forte  | XXXXXX |
 
-[Milestone 1](#milestone-1-friday-3rd-april-5pm) • [Milestone 2](#milestone-2-friday-1st-may-5pm) • [Milestone 3](#milestone-3-thursday-28th-may-5pm)
+[Milestone 1](#milestone-1-friday-8th-april-5pm) • [Milestone 2](#milestone-2-friday-6st-may-5pm) • [Milestone 3](#milestone-3-friday-3rd-june-5pm)
 
 ## Milestone 1 (Friday 8th April, 5pm)
 **10% of the final grade**
@@ -40,15 +38,19 @@ Our team is captivated by this project since we think it is genuinely interestin
 The target audiences are our fellow students, friends, and families that would like to learn about the topic.
 
 During the pre-processing of the data, we have plotted in python (for fast and convenient prototyping) some proofs-of-concept.
-<figure align="center">
-    <img src="images/france_study.png" width="50%">
-    <figcaption>Figure 1: In purple, the data about a single animal in a study of our dataset, over a blue map of central European countries.</figcaption>
-</figure>
 
-<figure align="center">
+
+<p align="center">
+    <img src="images/france_study.png" width="50%">
+    <br>
+    <em>Figure 1: In purple, the data about a single animal in a study of our dataset, over a blue map of central European countries.</em>
+</p>
+
+<p align="center">
     <img src="images/world_map.png" width="100%">
-    <figcaption>Figure 2: Several studies were plotted in the same world map. Every study is in a different color.</figcaption>
-</figure>
+    <br>
+    <em>Figure 2: Several studies were plotted in the same world map. Every study is in a different color.</em>
+</p>
 
 Figure 2. represents the main visualization that we would like to develop. One can see that the studies are covering several animal species and span a large number of countries internationally.
 Our geo-visualization will be bundled with interactive filters to focus on certain studies/species/single animals/time periods. Users will be able to zoom in and out of certain regions and simulate time travel.
