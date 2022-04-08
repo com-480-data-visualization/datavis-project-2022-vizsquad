@@ -6,7 +6,7 @@
 |-----------------|--------|
 | Ruben Burdin    | 338367 |
 | Lovro Nuic      | 338203 |
-| Fabrizio Forte  | XXXXXX |
+| Fabrizio Forte  | 328932 |
 
 [Milestone 1](#milestone-1-friday-8th-april-5pm) • [Milestone 2](#milestone-2-friday-6st-may-5pm) • [Milestone 3](#milestone-3-friday-3rd-june-5pm)
 
