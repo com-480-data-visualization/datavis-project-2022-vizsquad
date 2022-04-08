@@ -62,6 +62,7 @@ Other visualizations will be (all with interactive filters):
 - Interactive tree-map of with the largest squares being the counties to host the most animals. This is an animated chart over a time series acceleration.
 - Information exploration about species retrieved from Wikipedia directly in-site displayed in a fancy fashion (linked to the wikidata database API)
 - Additional statistics on the visualized data in the current window of the map (e.g. number of animals studies, km/week traveled by an average animal,...)
+- Interactive map to compare trajectories in migration with other environmental studies
 These visualizations will enable us to experiment with several gestalts, colours and other data visualization principles.
 
 ### Exploratory Data Analysis
