@@ -112,12 +112,18 @@ The median length of a study is of 25 months, with skewed distribution. This is 
 
 #### About animals
 
+Another look at our data is which animals exist in the dataset and what their evolutionary relationships are. 
+This data will help us to be able to compare animals and organize the data into related groups.
+
 <p align="center">
     <img src="images/tree.png" width="100%">
     <br>
     <em>Figure 7: Phylogenetic tree of animals with tracking data.</em>
 </p>
-<div aligh="center">
+
+In the figure 7. we can see that the dataset contains animals from 3 classes: Aves, Mammalia, Reptilia. The most numerous are animals from the Aves class, but it is interesting that it contains data on birds that migrate, do not migrate, and even do not fly.
+
+<div align="center">
 <table>
 <tr>
   <th>Buceros bicornis</th>
@@ -125,9 +131,9 @@ The median length of a study is of 25 months, with skewed distribution. This is 
   <th>Chelonia mydas</th>
 </tr>
 <tr>
-  <td style="padding: 0px"><img src="images/buceros_bicornis.jpg"></td>
-  <td style="padding: 0px"><img src="images/panthera_onca.jpg"></td>
-  <td style="padding: 0px"><img src="images/chelona_mydias.jpg"></td>
+  <td style="padding: 0px!important"><img src="images/buceros_bicornis.jpg"></td>
+  <td style="padding: 0px!important"><img src="images/panthera_onca.jpg"></td>
+  <td style="padding: 0px!important"><img src="images/chelona_mydias.jpg"></td>
 </tr>
 <tr>
  <td>by: Seasidesaltlife - <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a></td>
