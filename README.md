@@ -68,13 +68,29 @@ These visualizations will enable us to experiment with several gestalts, colours
 
 ### Related work
 
-• What others have already done with the data?
+#### What others have already done with the data?
 
-• Why is your approach original?
+- Movebank.org ([link](https://www.movebank.org/cms/movebank-main))
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+- Movebank dataset summarizer ([link](https://robitalec.github.io/move-book/index.html))
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+- DynamoVis ([link](https://github.com/move-ucsb/DynamoVis))
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-• What source of inspiration do you take? Visualizations that you found on other
-websites or magazines (might be unrelated to your data).
+#### Why is our approach original?
 
+While there is scientific research on the individual studies, there is no visualization that would combine the data of different studies and show animal migrations in an interactive way.
+Our goal is to present data on migration to non-experts and show the dynamism of the animal world that is greater than we usually think.
+
+#### Sources of inspiration
+
+|                    StarLink Satellite Map  ([link](https://satellitemap.space/))                     |
+|:--------------------------------------------------------------------------------------------------------------------:|
+| <a href="https://satellitemap.space/"><img src="images/satellitemap.png" alt="1" width = "100%"></a> |
+
+|         Global animal movements based on Movebank data - ([link](https://www.youtube.com/watch?v=nUKh0fr1Od8))          |
+|:-----------------------------------------------------------------------------------------------------------------------:|
+| <a href="https://www.youtube.com/watch?v=nUKh0fr1Od8"><img src="images/migration_video.png" alt="1" width = "100%"></a> |
 
 ## Milestone 2 (Friday 6st May, 5pm)
 
