@@ -160,7 +160,9 @@ In the figure 7. we can see that the dataset contains animals from 3 classes: Av
 While there is scientific research on the individual studies, there is no visualization that would combine the data of different studies and show animal migrations in an interactive way.
 Our goal is to present data on migration to non-experts in accessible way and show the dynamism of the animal world that is greater than we usually think.
 
-#### Sources of inspiration
+**This is our first time using this dataset.**
+
+#### Sources of inspiration:
 
 |                    StarLink Satellite Map  ([link](https://satellitemap.space/))                     |
 |:--------------------------------------------------------------------------------------------------------------------:|
@@ -169,6 +171,7 @@ Our goal is to present data on migration to non-experts in accessible way and sh
 |          Global animal movements based on Movebank data ([link](https://www.youtube.com/watch?v=nUKh0fr1Od8))           |
 |:-----------------------------------------------------------------------------------------------------------------------:|
 | <a href="https://www.youtube.com/watch?v=nUKh0fr1Od8"><img src="images/migration_video.png" alt="1" width = "100%"></a> |
+
 
 ## Milestone 2 (Friday 6st May, 5pm)
 
