@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "epfl-course",
+  "private_key_id": "f41b0ed796f9605867dd754bffcce6dc47a09c79",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC0STj59BG4+Nwq\nU89GPGEWMt8oupLflNn2UYlP1aphEibQVOF2Pq6YqeQK+ACoirafB3HByQiVo83w\nq8H4lBMS3AdYTdwQQX6ADUQoPJb5GjwPufkCfjwMNn67x3J7hEfnWKcNCVSsl4fj\nKhGFNpZCPlATFO75VMSrQqXY5sdS89a5WbCY/urBDJrkTwhQGZ2P//AYu0IrVaiE\nM/s8PMWD0wwttMHRegU3nBnKaXAd22NjruBmTePZUF6OI78udBiezs5hgGOvTM9l\nXWWXpeXvSgep0/n+zQ4D/cgditAHDyMCyi4+mP5Ksb5SWtEi4eQN7sqWc+g0X84j\nFgkxML+tAgMBAAECggEAG9UQCDp/P+yfZKNypNeub1RkMi/3e6/JpGa7CYmlV34L\nYu8vrWcI4kWcEHtv8pUTk2J9U9rayeszYFvLwrntZeR099NxTUsnIdKqeoG8FvHP\nYuglgpaFY6dIEmo8iMgHp7X+eBtAKLLuBgpZERU3xjtDdmata+2DvSK5Ys5h6DK8\nejzyCUSacwuAOiey11dbX5ILqztAfHg+fCfkSQgNazG9H5DuURl+ehw+CmEv/sAa\naJqshGO0Rc8PwNz91FK97jtqpjWV+xgBZy7jtkKfn5sBF6vQgZHCd/0a8SIjzsRz\nnPMW2ajnekiptkSFy9l6LCg0GwT9PX466b6irA26iwKBgQD8X77nvoRJE01jrDsS\nGZ7irmNkgCvDFSihPpsNYxWl3Jtcmp6NaTo+0AbnNO3o/ECyQCP1RMjoFIyrFX27\nz+Jooqd17ESGOJQHRRLmNrkAJfdoJxgj9Hu5NGlcxvUjd+Lm3ZFXyHvMIrBzvwzm\n7/M2jQBwjNss8OcnDyffOvqyGwKBgQC24FStMTNStIq+YdEPwT886eZyytOK4n1D\nr0B8Kko+uzcfAzbZIIIUK3iAIjKb0VqyibM/dpTelOVdXj0qpNU2wqt6rTkGwNIy\nyO0R7ZMWsNOV/g+5Aiaej9piC8zsihsOtEp9zp3OWFRirZAHdvodL7MsujT+jngf\nqJHcnoox1wKBgQC/X1tEIBPv1dM5YcDpWMRC4Do+W3LT25eTrgWlgR1JSKAG+LiC\nQukH+HdDm79MjPwCLuEVe7NdSTfiA8n0QQ9OiQizQxYzMXQOjzJln9lpY2DYecy0\ndw/awQOkdrosyxwkNJ+iEUTO5v8mxhjihdHH6+QJdMY+re6aj8OMYwz3QQKBgETK\nJY/wTenyV649hTJz8qGrKjBL8z7u60emiI8sKTlnmthjkSIjhEqp/23Tb04FdiRq\nf66DoIQJZi204TVFQ56Ro4dF2YmcxnSr9+EiiI2kfjKRmsBw+q3yVqdC4Rao7Hyf\nfNXN/rY7q6JivybPrk2EP9W3RW/rj2v5MMTYLguJAoGAAN5DLE0QKG8GxEhakCl1\nsrXzMD5WnO8PGJYZCXx9ShbR7eBp+PqgWl6Fy+EnbhGLXEpWcE+GBFCpn94IFL1K\n/yJFE15A1MntL/kQrFasvAtj5Ks4QAbB+MpHqsqoDoqtGQNj5l9se0sMAGeAnQ3W\nxEJ43gT0iosxTZM9nnHGd8c=\n-----END PRIVATE KEY-----\n",
+  "client_email": "ada-project@epfl-course.iam.gserviceaccount.com",
+  "client_id": "109224690855224106583",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ada-project%40epfl-course.iam.gserviceaccount.com"
+}

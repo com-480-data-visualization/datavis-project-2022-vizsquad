@@ -1,0 +1,7 @@
+pandas
+db-dtypes
+psycopg2-binary
+flask==2.0.3
+gunicorn
+google-cloud-bigquery
+flask-cors
