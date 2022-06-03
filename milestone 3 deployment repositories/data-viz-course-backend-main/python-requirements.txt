@@ -1,0 +1,6 @@
+pandas
+flask==2.0.3
+gunicorn
+flask-cors
+flask-compress
+pyarrow
