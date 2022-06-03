@@ -1,0 +1,67 @@
+{
+  "name": "data-viz-course-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "@vueform/multiselect": "^2.4.2",
+    "@vuepic/vue-datepicker": "^3.2.1",
+    "axios": "^0.27.2",
+    "bootstrap": "5.1.3",
+    "chart.js": "^3.8.0",
+    "core-js": "^3.22.7",
+    "font-awesome": "^4.7.0",
+    "globe.gl": "^2.26.2",
+    "haversine-distance": "^1.2.1",
+    "leaflet": "^1.8.0",
+    "leaflet-sidebar-v2": "^3.2.3",
+    "lodash": "^4.17.21",
+    "plotly.js-dist-min": "^2.12.1",
+    "sass": "^1.52.1",
+    "sass-loader": "^13.0.0",
+    "three": "^0.140.2",
+    "three-globe": "^2.24.5",
+    "underscore": "^1.13.4",
+    "vue": "^3.2.13",
+    "vue-chartjs": "^4.1.1",
+    "vue-fullpage.js": "^0.2.5",
+    "vuex": "^4.0.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.18.2",
+    "@babel/eslint-parser": "^7.18.2",
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-plugin-vuex": "~5.0.0",
+    "@vue/cli-service": "~5.0.0",
+    "d3": "^7.4.4",
+    "eslint": "^7.32.0",
+    "eslint-plugin-vue": "^8.7.1"
+  },
+  "eslintConfig": {
+    "root": true,
+    "env": {
+      "node": true
+    },
+    "extends": [
+      "plugin:vue/vue3-essential",
+      "eslint:recommended"
+    ],
+    "parserOptions": {
+      "parser": "@babel/eslint-parser"
+    },
+    "rules": {}
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead",
+    "not ie 11"
+  ],
+  "bundleDependencies": [
+    "d3"
+  ]
+}
