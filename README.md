@@ -183,3 +183,8 @@ Our goal is to present data on migration to non-experts in accessible way and sh
 
 **80% of the final grade**
 
+Github: https://github.com/com-480-data-visualization/datavis-project-2022-vizsquad
+
+Website: https://data-viz-course-frontend-e4sglwkopa-uc.a.run.app/ 
+
+Video: https://drive.google.com/drive/folders/1wq44vAApNfggwb3BWWg4OhasPRtrd84G?usp=sharing 
