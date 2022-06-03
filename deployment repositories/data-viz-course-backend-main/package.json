@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "@vueform/multiselect": "^2.3.3",
-    "vue3-datepicker": "^0.3.3"
-  }
-}
